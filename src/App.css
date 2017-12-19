@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+#rootApp{
+  display:block;
+  width:100%;
+  text-align: center;
+}
+#rootApp div{
+  display:block;
+  text-align:center;
+  width:200px;
+  font-size: 18px;
+  padding:5px;
+  border: 1px solid black;
+
+}
+
+.effect{
+  opacity:0;
+  transition: 1s
+}
